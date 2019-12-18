@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Girassol|Inria+Serif:700&display=swap');
+@import url("components/container.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+body {
+	
+	font-family: 'Inria Serif', serif;
+	font-size: 18px;
+}
+
+
+h1,h2,h3 {
+
+	font-family: 'Girassol', cursive;
+	font-weight: bold;
+
+}
+
+a {
+	padding: 10px 20px;
+	margin: 2px 2px;
+	background-color: #4DD599;
+	border: solid black;
+	color: black;
+	border-width: 3px;
+	text-decoration: none;
+	margin-right: 20px;
+}
+
+a:hover{
+
+	
+	background-color: black;
+	border: solid white;
+	color: white;
+	border-width: 3px;
+	text-decoration: none;
+
+}
